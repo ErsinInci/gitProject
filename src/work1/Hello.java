@@ -8,6 +8,9 @@ public class Hello {
         System.out.println("created git repository");
         System.out.println("made few commits");
 
+        System.out.println("local repo is published to github");
+        System.out.println("doing more work");
+
 
     }
 }
